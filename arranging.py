@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Sep 28 17:54:14 2020
+Created on Mon Sep 28 17:54:14 2021
 
-@author: juru
+@author: juru  
 """
-import numpy as np
+import numpy as np 
 
 def arranging(OSSc,variables_results,var_output,cable_selected,objective,var_output_general,solution_output_general,substation_number_general):   
     b=np.zeros((0,6))
